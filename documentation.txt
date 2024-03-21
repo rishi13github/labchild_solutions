@@ -1,0 +1,4 @@
+prepraing the documentation for setting the git server and specifying all the processes and commands that are needed to establish and run the server.
+ STEP 1: Install the git server  from chrome
+STEPN 2: setup the git server and run the bash script.
+step 3: 
